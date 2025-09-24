@@ -38,3 +38,10 @@ Gadget = menambahkan spesifikasi lebih khusus.
 ![Deskripsi gambar](CPP/Dokum/tp2cpp1.png)
 - Menambah jumlas stok
 ![Deskripsi gambar](CPP/Dokum/tp2cpp2.png)
+
+## JAVA ##
+- Tambah produk
+![Deskripsi gambar](JAVA/Dokumentasi/tp2java1.png)
+- Menambah jumlah produk
+![Deskripsi gambar](JAVA/Dokumentasi/tp2java1.png)
+
