@@ -33,7 +33,8 @@ Item = representasi umum barang.
 Electronic = menambahkan informasi detail barang elektronik.
 Gadget = menambahkan spesifikasi lebih khusus.
 
-CPP
+## CPP ##
 - Tambah produk
 ![Deskripsi gambar](CPP/Dokum/tp2cpp1.png)
 - Menambah jumlas stok
+![Deskripsi gambar](CPP/Dokum/tp2cpp2.png)
