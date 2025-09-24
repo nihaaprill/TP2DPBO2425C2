@@ -23,7 +23,7 @@ Program dimulai dengan pembuatan beberapa data awal berupa objek Gadget yang sud
 Pengguna dapat menambahkan data baru secara manual.
 Saat menambahkan data, program melakukan pengecekan ID terlebih dahulu:
 - Jika ID sudah ada, maka program hanya menambah jumlah stok.
-J- ika ID belum ada, maka dibuat objek Gadget baru yang ditambahkan ke daftar produk.
+- ika ID belum ada, maka dibuat objek Gadget baru yang ditambahkan ke daftar produk.
 Semua data, baik data awal maupun data dari input pengguna, ditampilkan dalam bentuk tabel dinamis.
 Setiap atribut menjadi kolom.
 Setiap baris merepresentasikan satu produk Gadget.
@@ -36,12 +36,30 @@ Gadget = menambahkan spesifikasi lebih khusus.
 ## CPP ##
 - Tambah produk
 ![Deskripsi gambar](CPP/Dokum/tp2cpp1.png)
+
 - Menambah jumlas stok
 ![Deskripsi gambar](CPP/Dokum/tp2cpp2.png)
 
 ## JAVA ##
 - Tambah produk
 ![Deskripsi gambar](JAVA/Dokumentasi/tp2java1.png)
-- Menambah jumlah produk
-![Deskripsi gambar](JAVA/Dokumentasi/tp2java1.png)
 
+- Menambah jumlah produk
+![Deskripsi gambar](JAVA/Dokumentasi/tp2java2.png)
+
+## Python ##
+- Tambah produk
+![Deskripsi gambar](Python/Dokumentasi/tp2py1new.png)
+
+- Menambah jumlah produk
+![Deskripsi gambar](JAVA/Dokumentasi/tp2py2.png)
+
+## PHP ##
+- Menu Add
+![Deskripsi gambar](PHP/Dokumentasi/tp2php1.png)
+
+- tampilan sebelum di tambahkan
+![Deskripsi gambar](PHP/Dokumentasi/tp2php3.png)
+
+- Berhasil di tambahkan
+![Deskripsi gambar](PHP/Dokumentasi/tp2php2.png)
