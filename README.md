@@ -8,3 +8,32 @@ Kelas Item menjadi kelas dasar yang menyimpan atribut umum seperti id, nama, dan
 ## Diagram ##
 ![Deskripsi gambar](diagramtp2.png)
 
+Item
+Atribut: id, nama, harga
+Method: constructor untuk inisialisasi data, getter untuk ambil data
+Electronic (extends Item)
+Atribut tambahan: merek, kategori, stok, garansi
+Method: constructor yang juga memanggil constructor Item, getter tambahan
+Gadget (extends Electronic)
+Atribut tambahan: model, kapasitasBaterai
+Method: constructor yang memanggil constructor Electronic, getter untuk ambil semua data
+
+Alur programnya
+Program dimulai dengan pembuatan beberapa data awal berupa objek Gadget yang sudah diisi nilai default.
+Pengguna dapat menambahkan data baru secara manual.
+Saat menambahkan data, program melakukan pengecekan ID terlebih dahulu:
+- Jika ID sudah ada, maka program hanya menambah jumlah stok.
+J- ika ID belum ada, maka dibuat objek Gadget baru yang ditambahkan ke daftar produk.
+Semua data, baik data awal maupun data dari input pengguna, ditampilkan dalam bentuk tabel dinamis.
+Setiap atribut menjadi kolom.
+Setiap baris merepresentasikan satu produk Gadget.
+Secara sederhana, desain ini menggambarkan bagaimana sebuah toko elektronik bisa dikelola secara digital.
+
+Item = representasi umum barang.
+Electronic = menambahkan informasi detail barang elektronik.
+Gadget = menambahkan spesifikasi lebih khusus.
+
+CPP
+- Tambah produk
+![Deskripsi gambar](CPP/Dokum/tp2cpp1.png)
+- Menambah jumlas stok
