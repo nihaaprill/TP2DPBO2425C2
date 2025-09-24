@@ -1,0 +1,14 @@
+
+G006
+HP
+90000
+VIVO
+89
+24
+Y02
+smartphone
+8900
+
+- jika id sudah ada
+G003
+82
