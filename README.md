@@ -44,14 +44,14 @@ Gadget = menambahkan spesifikasi lebih khusus.
 - Tambah produk
 ![Deskripsi gambar](JAVA/Dokumentasi/tp2java1.png)
 
-- Menambah jumlah produk
+- Menambah jumlah stok
 ![Deskripsi gambar](JAVA/Dokumentasi/tp2java2.png)
 
 ## Python ##
 - Tambah produk
 ![Deskripsi gambar](Python/Dokumentasi/tp2py1new.png)
 
-- Menambah jumlah produk
+- Menambah jumlah stok
 ![Deskripsi gambar](Python/Dokumentasi/tp2py2.png)
 
 ## PHP ##
