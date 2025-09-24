@@ -52,7 +52,7 @@ Gadget = menambahkan spesifikasi lebih khusus.
 ![Deskripsi gambar](Python/Dokumentasi/tp2py1new.png)
 
 - Menambah jumlah produk
-![Deskripsi gambar](JAVA/Dokumentasi/tp2py2.png)
+![Deskripsi gambar](Python/Dokumentasi/tp2py2.png)
 
 ## PHP ##
 - Menu Add
